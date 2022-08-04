@@ -1,4 +1,4 @@
-package shapes;
+package shapes.myshapes;
 
 import java.util.ArrayList;
 import java.util.List;

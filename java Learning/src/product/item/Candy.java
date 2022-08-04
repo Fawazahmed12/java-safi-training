@@ -22,7 +22,7 @@ public class Candy {
             }
             else if(number > totalChocolates){
                 int  remaining = number - totalChocolates;
-                System.out.println("not enough chocolates and Only" +" "+remaining+" chocolate left");
+                System.out.println("not enough chocolates and Only" +" "+remaining+" chocolatebysafi left");
                 break;
             }
             else{

@@ -1,4 +1,4 @@
-package shapes;
+package shapes.myshapes;
 
 
 public class Shape {

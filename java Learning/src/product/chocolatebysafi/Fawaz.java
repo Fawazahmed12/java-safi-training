@@ -1,19 +1,16 @@
-package chocolate;
+package chocolatebysafi;
 
-public class Employee {
-
-    String name;
+public class Fawaz {
+    String name = "fawaz";
     private  ChocolateBox chocolateBox;
 
-    Employee(String name){
-        this.name = name;
-    }
+     Fawaz() {
 
+    }
 
     public void setChocolateBox(ChocolateBox chocolateBox) {
         this.chocolateBox = chocolateBox;
     }
-
 
 
     public void openChocolateBox() {

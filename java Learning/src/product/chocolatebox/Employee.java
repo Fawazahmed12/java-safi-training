@@ -13,14 +13,14 @@ public abstract class Employee {
     }
     public void openChocolateBox(int numCh) {
         if (chocolateBox.noOfChoco <= 1) {
-            System.out.println("Not able to open the chocolate box");
+            System.out.println("Not able to open the chocolatebysafi box");
         } else {
             System.out.println(this.name + " is opening " +  this.chocolateBox.name);
         }
     }
     public void takeChocolate(int numCh) {
         if (chocolateBox.noOfChoco <= 1) {
-            System.out.println("No adequate amount of chocolate available");
+            System.out.println("No adequate amount of chocolatebysafi available");
         } else {
             chocolateBox.noOfChoco = chocolateBox.noOfChoco - numCh;
             System.out.println(this.name + " is taking " + numCh);

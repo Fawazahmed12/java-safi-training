@@ -1,4 +1,4 @@
-
+package taskbyashraf;
 
 public class DuplicateString {
     String country = "indianapolis";

@@ -1,4 +1,4 @@
-package chocolate;
+package chocolatebysafi;
 
 public class Safi extends  Employee {
 

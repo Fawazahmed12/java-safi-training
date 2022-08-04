@@ -1,3 +1,5 @@
+package taskbyashraf;
+
 public class LargerNumber {
 
 //   int[] array = new int[10];
