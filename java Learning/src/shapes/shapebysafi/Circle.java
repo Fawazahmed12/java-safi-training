@@ -1,4 +1,4 @@
-package shapebysafi;
+package shapes.shapebysafi;
 
 public class Circle extends Shape {
     double radius;

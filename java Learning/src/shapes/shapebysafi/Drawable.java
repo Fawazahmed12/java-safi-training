@@ -1,4 +1,4 @@
-package shapebysafi;
+package shapes.shapebysafi;
 
 interface   Drawable{
 

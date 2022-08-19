@@ -1,4 +1,4 @@
-package shapebysafi;
+package shapes.shapebysafi;
 
 public class Triangle extends Shape implements Drawable, Danceable {
     double base;

@@ -6,10 +6,10 @@ public class Main {
         Account SAccount = new Savings(50000);
 
         SAccount.Deposit(1000);
-        SAccount.printBalance();
+        SAccount.printSavingAccountBalance();
 
         SAccount.Withdraw(3000);
-        SAccount.printBalance();
+        SAccount.printSavingAccountBalance();
 
         System.out.println();
 
@@ -17,9 +17,9 @@ public class Main {
         Account CAccount = new Current(50000);
 
         CAccount.Deposit(1000);
-        CAccount.printBalance();
+        CAccount.printCurrentAccountBalance();
 
         CAccount.Withdraw(3000);
-        CAccount.printBalance();
+        CAccount.printCurrentAccountBalance();
     }
 }

@@ -1,4 +1,4 @@
-package shapebysafi;
+package shapes.shapebysafi;
 
 public class Square extends Shape {
     double side;

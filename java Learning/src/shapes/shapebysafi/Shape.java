@@ -1,4 +1,4 @@
-package shapebysafi;
+package shapes.shapebysafi;
 
 import java.util.ArrayList;
 import java.util.List;

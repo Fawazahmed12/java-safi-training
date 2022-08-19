@@ -1,4 +1,4 @@
-package shapesusingscanner;
+package shapes.shapesusingscanner;
 
 import java.util.Scanner;
 
