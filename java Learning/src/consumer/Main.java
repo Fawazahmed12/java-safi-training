@@ -1,6 +1,6 @@
 package consumer;
 
-//public class Main {
+//public class InstanceCountExample {
 //}
 
 
