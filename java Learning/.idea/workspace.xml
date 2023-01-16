@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="da313986-c39a-4a67-86ca-e9ca3ebd863d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parameterized_type/BoundaryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parameterized_type/BoundaryListUsingHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parameterized_type/BoundaryListUsingParameterized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticMethodNonStaticMethod/RemoveChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java Learning/lambda_learning/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java Learning/lambda_learning/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java Learning/testing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consumer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java Learning/staticMethodNonStaticMethod/RemoveChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java Learning/staticMethodNonStaticMethod/RemoveChar.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,28 +242,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/fawaz/java-safi-training/java Learning"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/fawaz/java-safi-training/java Learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="parameterized_type" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveChar">
-    <configuration name="BoundaryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parameterized_type.BoundaryList" />
+  <component name="RunManager" selected="Application.FunctionScope">
+    <configuration name="FunctionScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map_Interface.scope.FunctionScope" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parameterized_type.*" />
+          <option name="PATTERN" value="map_Interface.scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoundaryListUsingHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parameterized_type.BoundaryListUsingHashMap" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="family.familymembers.Main" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parameterized_type.*" />
+          <option name="PATTERN" value="family.familymembers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoundaryListUsingParameterized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parameterized_type.BoundaryListUsingParameterized" />
+    <configuration name="MapInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map_Interface.MapInterface" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parameterized_type.*" />
+          <option name="PATTERN" value="map_Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicsLearning.switch_case.Data" />
+    <configuration name="MyFamily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="family.familyusingarraylist.MyFamily" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicsLearning.switch_case.*" />
+          <option name="PATTERN" value="family.familyusingarraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticMethodNonStaticMethod.RemoveChar" />
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map_Interface.example1.Try" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="staticMethodNonStaticMethod.*" />
+          <option name="PATTERN" value="map_Interface.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,19 +332,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveChar" />
-      <item itemvalue="Application.BoundaryList" />
-      <item itemvalue="Application.BoundaryListUsingHashMap" />
-      <item itemvalue="Application.BoundaryListUsingParameterized" />
-      <item itemvalue="Application.Data" />
+      <item itemvalue="Application.FunctionScope" />
+      <item itemvalue="Application.Try" />
+      <item itemvalue="Application.MapInterface" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyFamily" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveChar" />
-        <item itemvalue="Application.BoundaryListUsingHashMap" />
-        <item itemvalue="Application.BoundaryListUsingParameterized" />
-        <item itemvalue="Application.BoundaryList" />
-        <item itemvalue="Application.Data" />
+        <item itemvalue="Application.FunctionScope" />
+        <item itemvalue="Application.Try" />
+        <item itemvalue="Application.MapInterface" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyFamily" />
       </list>
     </recent_temporary>
   </component>
@@ -387,6 +390,13 @@
       <workItem from="1661150935318" duration="1100000" />
       <workItem from="1661174919441" duration="647000" />
       <workItem from="1661229465620" duration="11479000" />
+      <workItem from="1673247893522" duration="5985000" />
+      <workItem from="1673317625346" duration="32000" />
+      <workItem from="1673327298341" duration="604000" />
+      <workItem from="1673336386425" duration="9000" />
+      <workItem from="1673411462581" duration="7540000" />
+      <workItem from="1673500180854" duration="703000" />
+      <workItem from="1673840674926" duration="3748000" />
     </task>
     <servers />
   </component>
@@ -438,7 +448,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -493,6 +503,36 @@
           <url>file://$PROJECT_DIR$/src/interfacesLearning/InterfaceDemo.java</url>
           <line>11</line>
           <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/map_Interface/MapInterface.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/map_Interface/MapInterface.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/map_Interface/MapInterface.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/map_Interface/MapInterface.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/map_Interface/MapInterface.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/map_Interface/MapInterface.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
