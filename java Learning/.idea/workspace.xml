@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da313986-c39a-4a67-86ca-e9ca3ebd863d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/map_Interface/emapl/EnglishNumberToWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java Learning/staticMethodNonStaticMethod/RemoveChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java Learning/staticMethodNonStaticMethod/RemoveChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java Learning/chocolatebysafi/Safi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java Learning/map_Interface/emapl/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java Learning/map_Interface/scope/FunctionScope.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java Learning/map_Interface/scope/FunctionScope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map_Interface/emapl/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/product/chocolatebysafi/Safi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/product/chocolatebysafi/Safi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +257,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/fawaz/java-safi-training/java Learning&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/fawaz/java-ashraf-training/java-training&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -265,13 +270,13 @@
       <recent name="parameterized_type" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionScope">
-    <configuration name="FunctionScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map_Interface.scope.FunctionScope" />
+  <component name="RunManager" selected="Application.ArrayAssignments">
+    <configuration name="ArrayAssignments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_assignment.ArrayAssignments" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map_Interface.scope.*" />
+          <option name="PATTERN" value="java_assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,21 +284,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="family.familymembers.Main" />
-      <module name="java Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="family.familymembers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map_Interface.MapInterface" />
+    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map_Interface.Basic" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
@@ -305,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFamily" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="family.familyusingarraylist.MyFamily" />
+    <configuration name="FilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map_Interface.stream_filter_And_map.FilterExample" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="family.familyusingarraylist.*" />
+          <option name="PATTERN" value="map_Interface.stream_filter_And_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,12 +310,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map_Interface.example1.Try" />
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_assignment.GFG" />
       <module name="java Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map_Interface.example1.*" />
+          <option name="PATTERN" value="java_assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueElementsExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_assignment.UniqueElementsExample2" />
+      <module name="java Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,19 +337,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FunctionScope" />
-      <item itemvalue="Application.Try" />
-      <item itemvalue="Application.MapInterface" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MyFamily" />
+      <item itemvalue="Application.FilterExample" />
+      <item itemvalue="Application.GFG" />
+      <item itemvalue="Application.ArrayAssignments" />
+      <item itemvalue="Application.UniqueElementsExample2" />
+      <item itemvalue="Application.Basic" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionScope" />
-        <item itemvalue="Application.Try" />
-        <item itemvalue="Application.MapInterface" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MyFamily" />
+        <item itemvalue="Application.ArrayAssignments" />
+        <item itemvalue="Application.UniqueElementsExample2" />
+        <item itemvalue="Application.FilterExample" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.Basic" />
       </list>
     </recent_temporary>
   </component>
@@ -397,6 +402,18 @@
       <workItem from="1673411462581" duration="7540000" />
       <workItem from="1673500180854" duration="703000" />
       <workItem from="1673840674926" duration="3748000" />
+      <workItem from="1673869225261" duration="2332000" />
+      <workItem from="1673927294666" duration="9723000" />
+      <workItem from="1674011672280" duration="3069000" />
+      <workItem from="1674017392501" duration="8651000" />
+      <workItem from="1674044845905" duration="857000" />
+      <workItem from="1674099939582" duration="1035000" />
+      <workItem from="1674102026283" duration="19873000" />
+      <workItem from="1674192193685" duration="32000" />
+      <workItem from="1674194322332" duration="4266000" />
+      <workItem from="1674273677989" duration="12447000" />
+      <workItem from="1674444584421" duration="22664000" />
+      <workItem from="1674536952594" duration="2003000" />
     </task>
     <servers />
   </component>
@@ -533,6 +550,16 @@
           <url>file://$PROJECT_DIR$/src/map_Interface/MapInterface.java</url>
           <line>8</line>
           <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringTokenizer/Sample.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_assignment/UniqueElementsExample2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
